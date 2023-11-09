@@ -1,0 +1,16 @@
+Package: SCAP
+Type: Package
+Title: R Course 2 SCAP
+Version: 0.1.0
+Author: Oscar Legetth
+Maintainer: Oscar Legetth <oscar.legetth@med.lu.se>
+Description: Single Cell Analysis Package
+License: WTFPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends:
+  R (>= 4.0.0)
+Imports:
+  ggplot2,
+  dplyr
