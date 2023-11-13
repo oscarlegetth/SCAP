@@ -13,4 +13,7 @@ Depends:
   R (>= 4.0.0)
 Imports:
   ggplot2,
-  dplyr
+  dplyr,
+  RANN,
+  igraph,
+  umap
